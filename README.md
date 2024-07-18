@@ -1,1 +1,1 @@
-# Drag-Drop Itwms in JS
+# Drag-Drop Itmes in JS
